@@ -237,23 +237,6 @@ The Streamlit application will open in your browser.
 
 ---
 
-## 📊 Results
-
-The project will compare multiple machine learning models based on their prediction performance.
-
-A results table will be added after model training:
-
-| Model             | MAE | RMSE | R² Score |
-| ----------------- | --: | ---: | -------: |
-| Linear Regression |   — |    — |        — |
-| Decision Tree     |   — |    — |        — |
-| Random Forest     |   — |    — |        — |
-| Gradient Boosting |   — |    — |        — |
-| XGBoost           |   — |    — |        — |
-
-The model providing the best overall performance will be selected for the final QoS prediction system.
-
----
 
 ## 🌐 Streamlit Application
 
